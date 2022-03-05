@@ -1,0 +1,93 @@
+
+body {
+    line-height: 25px;
+    background-color: orange; 
+ }
+
+#heading {
+    text-align: center;
+    font-size: x-large;   
+}
+
+#box1 {
+    width: 400px;
+    padding: 10px;
+    border: 4px solid black;
+    margin-left: 10vw;
+    height: 1600px;
+    float: left;
+    background-color: rgb(121, 255, 80);
+  }
+
+#box2 {
+    width: 400px;
+    padding: 10px;
+    border: 4px solid black;
+    margin-right: 10vw;
+    height: 1600px;
+    float: right;
+    background-color: rgb(121, 255, 80);
+}
+
+#North_Indian {
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+    font-weight: 900;
+}
+
+#South_Indian {
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+    clear: both;
+    font-weight: 900;
+}
+
+#Fast_Food {
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+    font-weight: 900;
+}
+
+#Italian {
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+    clear: both;
+    font-weight: 900;
+}
+
+#menu_items {
+    float: left;
+}
+
+#menu_prices {
+    float: right;
+    text-align: right;
+}
+
+.b {
+    margin-right: 10px;
+    width: 300px;
+    display: inline-block;
+}
+
+button {
+    background-color: white;
+}
+
+#cart_div {
+    text-align: right;
+    font-size: 20px;
+}
+
+#cart_button {
+    background-color: aquamarine;
+    font-size: 20px;
+}
+
+#cart_link {
+    text-decoration: none;
+}
